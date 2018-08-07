@@ -1,0 +1,9 @@
+[user]
+	username = rheh
+	name = Ray Hammond
+	location = Lincolnshire,  United Kingdom
+	website = http://geeksretreat.wordpress.com/
+[commit]
+	gpgsign = true
+[aliases]
+	github = rheh
